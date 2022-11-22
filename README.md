@@ -14,7 +14,7 @@ The BEE Plugin page JSON contains the full path to the video icon within the mod
         "src": "",
         "thumbSrc": "",
         "thumbRatio": "16-9",
-        "iconSrc": "https://qa-bee-app-rsrc.s3.amazonaws.com/public/resources/components/widgetBar/video-content-icon-sets/dark/type-03.png",
+        "iconSrc": "{root}/public/resources/components/widgetBar/video-content-icon-sets/dark/type-03.png",
       }
     }
       
