@@ -21,6 +21,19 @@ The BEE Plugin page JSON contains the full path to the video icon within the mod
     
 The sending app may replace the hosted icon images with custom URLs during post-processing, or directly in the JSON. 
 
+Current `{root}`:
+`https://app-rsrc.getbee.io`
+
+Full sample URL:
+`https://app-rsrc.getbee.io/public/resources/components/widgetBar/video-content-icon-sets/dark/type-04.png`
+
 ## spacers
 
 The `thumbRatio` param of the video module's `descriptor` determines which spacer image will be inserted into the HTML. The sending app may replace the hosted spacer images with custom URLs during post-processing.
+
+Current `{root}`:
+`https://app-rsrc.getbee.io`
+
+Full sample URL:
+`https://app-rsrc.getbee.io/public/resources/multiparser/video_block/video_ratio_16-9.gif`
+
