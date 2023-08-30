@@ -1,13 +1,13 @@
 
-# bee-video-icons
+# beefree-sdk-assets-video
 
-This repository includes all the icon sets available in the Video module of BEE Plugin.
+This repository includes all the icon sets available in the video content block of the Beefree SDK builder.
 
   
 
 ## light and dark icons
 
-The BEE Plugin page JSON contains the full path to the video icon within the module's `descriptor` inside of the `iconSrc` param.
+The Beefree SDK JSON contains the full path to the video icon within the module's `descriptor` inside of the `iconSrc` param.
 
     {
       "video": {
@@ -19,7 +19,7 @@ The BEE Plugin page JSON contains the full path to the video icon within the mod
     }
       
     
-The sending app may replace the hosted icon images with custom URLs during post-processing, or directly in the JSON. 
+The sending app may replace the hosted icon images with custom URLs during post-processing or directly in the JSON. 
 
 Current `{root}`:
 `https://app-rsrc.getbee.io`
